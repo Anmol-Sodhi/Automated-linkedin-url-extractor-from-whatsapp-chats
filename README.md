@@ -36,7 +36,7 @@ Usage
 Clone the Repository:
 
 
-gi
+
 Run the Script:
 
 python whatsapp_url_extractor.py
