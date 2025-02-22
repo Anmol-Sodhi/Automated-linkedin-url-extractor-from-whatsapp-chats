@@ -35,15 +35,14 @@ You enter a keyword for the chat to search (e.g., "data"). The script finds and 
 Usage
 Clone the Repository:
 
-bash
-Copy
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+
+gi
 Run the Script:
 
-bash
-Copy
-python whatsapp.py
+python whatsapp_url_extractor.py
+
+
+
 Follow On-Screen Instructions:
 
 On the first run, scan the QR code using WhatsApp on your phone.
